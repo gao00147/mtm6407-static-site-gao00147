@@ -1,0 +1,15 @@
+{
+  "name": "mtm6407-static-site-gao00147",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Personal portfolio site for Yijia Gao, built with VitePress",
+  "author": "Yijia Gao <gao00147@algonquinlive.com>",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  }
+}
