@@ -1,16 +1,13 @@
 ---
-title: Fresh Track
+layout: project
+title: "Fresh Track"
+course: "MTM6460 Applied Project · City Studio"
+summary: "An interactive media campaign for the City of Ottawa to raise awareness of the city's bike paths and get more people riding them."
+role: "Background research, print materials, campaign copy, team lead (final phase)"
+type: "Team project · Client: City of Ottawa"
+tools: "Print design, copywriting, presentation"
 ---
 
-# Fresh Track
-
-<ul class="tags">
-  <li>MTM6460 Applied Project</li>
-  <li>City Studio</li>
-  <li>Client: City of Ottawa</li>
-  <li>Print design</li>
-  <li>Copywriting</li>
-</ul>
 
 Fresh Track is an interactive media campaign we're making for the **City of Ottawa** through the City Studio program. Our client is the city's transportation planning team. The goal is to raise awareness of Ottawa's bike paths and get more people riding them.
 

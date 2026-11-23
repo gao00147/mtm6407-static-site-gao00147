@@ -1,22 +1,18 @@
 ---
-title: APOD Starshot
+layout: project
+title: "APOD Starshot"
+course: "MTM6302 Capstone"
+summary: "A web app for exploring NASA's Astronomy Picture of the Day. Pick any date, see that day's space photo, and save favourites."
+role: "Wireframe, visual design and development"
+type: "Solo project"
+tools: "Figma, HTML, CSS, JavaScript, NASA API"
+repo: "https://github.com/gao00147/mtm6302-capstone-gao00147"
 ---
 
-# APOD Starshot
-
-<ul class="tags">
-  <li>MTM6302 Capstone</li>
-  <li>NASA APOD API</li>
-  <li>Vanilla JavaScript</li>
-  <li>localStorage</li>
-  <li>Figma</li>
-</ul>
 
 APOD Starshot is a web app for exploring NASA's Astronomy Picture of the Day (APOD). Users can pick any date, see that day's space photo with its explanation, and save the ones they like to a favourites page.
 
 This was a solo project. I did the wireframe, the visual mockup and the working prototype.
-
-[View the code on GitHub](https://github.com/gao00147/mtm6302-capstone-gao00147)
 
 ## 1. Wireframe
 

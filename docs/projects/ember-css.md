@@ -1,21 +1,18 @@
 ---
-title: Ember CSS
+layout: project
+title: "Ember CSS"
+course: "MTM6407 Web Development IV"
+summary: "A lightweight, warm toned CSS framework built with Sass that themes plain HTML and adds utility classes."
+role: "Team leader"
+type: "Team project"
+tools: "Sass, CSS, HTML"
+repo: "https://github.com/gao00147/Custom-CSS-Framework"
 ---
 
-# Ember CSS
-
-<ul class="tags">
-  <li>MTM6407 Web Development IV</li>
-  <li>Sass</li>
-  <li>CSS framework</li>
-  <li>Team leader</li>
-</ul>
 
 Ember CSS is a lightweight, warm toned CSS framework built with Sass. Our team made it for MTM6407, and I was the team leader.
 
 The idea is simple: link one CSS file and plain HTML already looks good. Headings, text, lists, buttons, forms and tables all get a consistent theme without adding a single class. On top of that there are utility classes for colour, font size, font weight, spacing and borders.
-
-[View the code on GitHub](https://github.com/gao00147/Custom-CSS-Framework)
 
 ## The look
 

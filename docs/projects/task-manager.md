@@ -1,23 +1,19 @@
 ---
-title: Student Task Manager
+layout: project
+title: "Student Task Manager"
+course: "MTM6302 Final Project"
+summary: "A dashboard for students to keep assignments, due dates and priorities in one place."
+role: "Developer, building a classmate's app idea"
+type: "Client project"
+tools: "HTML, CSS, JavaScript, localStorage"
+repo: "https://github.com/gao00147/student-task-manager-app"
 ---
 
 <script setup>
 import { withBase } from 'vitepress'
 </script>
 
-# Student Task Manager
-
-<ul class="tags">
-  <li>MTM6302 Final Project</li>
-  <li>Vanilla JavaScript</li>
-  <li>localStorage</li>
-  <li>Responsive</li>
-</ul>
-
 The Student Task Manager helps college students keep assignments, due dates and priorities in one place. Students juggle assignments, projects, quizzes and personal stuff all at once, and it's easy to lose track of what's due first. This app puts everything in one clean dashboard.
-
-[View the code on GitHub](https://github.com/gao00147/student-task-manager-app)
 
 ![Student Task Manager on desktop, showing stats, the add task form and a list of tasks](/images/task-hifi-desktop.png)
 
